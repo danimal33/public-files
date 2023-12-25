@@ -1,4 +1,25 @@
 {
 	"Name an occupation that begins with the letter J":[["Janitor",62],["Judge/Justice",19],["Jeweler",5],["Jockey",4],["Journalist",4],["Juggler",3]],
-	"Name the best Christmas movie":[["Elf",16],["It's a Wonderful Life",15],["A Christmas Story",14],["Home Alone",11],["White Christmas",10],["Christmas Vacation",10],["Miracle on 34th Street",7],["How the Grinch Stole Christmas",6],["A Christmas Carol",5],["Rudolph the Red-Nosed Reindeer",4]]
+	"Name something that might be brewing":[["Coffee",37],["Beer",28],["Tea",17],["Trouble",8],["A Storm",5],["A Plot",3]],
+	"Name something with teeth":[["Animals",66],["People",19],["A Comb",8],["A Zipper",4],["A Saw",2]],
+	"Name the most useful body part that begins with the letter L":[["Legs",77],["Lips",12],["Lungs",6],["Liver",4]],
+	"Name something an athlete might break":[["Bone/Body Part",80],["A Record",16],["Bat/Equipment",2],["Rules/The Law",2]],
+	"Name something associated with vampires":[["Twilight",33],["Blood/Bloodsucker",29],["Garlic",9],["Bat",7],["Cape",7],["Dracula",5],["Fangs",4],["Halloween",4]],
+	"Name something in a bakery a baker might call his wife":[["Honey/Buns",32],["His Oven",9],["Sweet/Sweetie",9],["Cupcake",8],["Muffin",7],["Sugar",5],["Donut",5],["Doughy",4]],
+	"Name something in a person's closet that only comes out on special occasions":[["Suit/Tux",35],["Dress",26],["Jewelry",10],["Dress Shoes",6],["Shotgun",4]],
+	"Name an occasion where parents force kids to wear a certain outfit":[["Wedding",26],["Easter",23],["Halloween",20],["Church",15],["Christmas",4],["Picture Day",4]],
+	"Name a quality of a bad boss":[["Micromanager",29],["Incompetnent",24],["Angry",20],["Irresponsible",14],["Oblivious",13]],
+	"Other than feet, name something that runs":[["Water/Toilet",37],["Engine/Car",24],["Refridgerator",10],["Nose",8],["Pantyhose",8],["Clock",3]],
+	"Name something you would ask the Wizard for in the Land of Oz":[["Money",37],["Health/A New Heart",17],["A Brain",7],["Hot Bod",5],["Peace on Earth",4],["Love",4],["Happiness",4],["Magic Power/To Fly",4]],
+	"If there was a Husband store, most people would try to buy one with what?":[["Job",24],["Personality/Humor",15],["Warranty/Guarantee",14],["Heart/Character",12],["Bank Account",10],["Good Bod/Butt",9],["Head of Hair",3],["Brain",2]],
+	"Name something you'd find at a breakfast buffet":[["Eggs",25],["Bacon",24],["Sausage",19],["Potatoes/Hash Browns",12],["Juice",7],["Coffee",6],["Melon",2],["Cereal",2]],
+	"Name something you would do if the person next to you on a plane had bad B.O.":[["Change Seats",39],["Cover Nose/Wear Mask",24],["Turn Head",6],["Endure/Enjoy It",6],["Spray Perfume",6],["Say Something",3],["Sleep",3],["Hide in Bathroom",3]],
+	"Name Marvel's Avengers":[["Captain America",22],["Iron Man",22],["Black Panther",20],["The Hulk",15],["Thor",15],["Black Widow",9],["Spiderman",3],["Hawkeye",3]],
+	"In horror movies, name a place teenagers would go where there is always a killer on the loose":[["Cabin/Camp/Woods",49],["Graveyard",12],["Movie Theater/Drive In",6],["Basement/Cellar",6],["Closet",5],["Bathroom/Shower",4],["Bedroom/Bed",4],["A Party",4]],
+	"Name something snowmen might have nightmares about":[["Sun/Beach Weather",62],["Fire/Flame Thrower",14],["Blow Dryers",3],["Rain",3],["Snowplow/Shovel",3],["Drought",2],["Snowballs",2],["Peeing Dogs/Pee",2]],
+	"Name a common candy bar component":[["Chocolate",36],["Peanuts",22],["Caramel",15],["Almonds",12],["Nougat",10],["Coconut",6]],
+	"Name a place where if a husband took his wife on an anniversary, she would be mad":[["Tacky Restaurant",43],["Strip Joint",19],["Sporting Event",12],["Bar/Club",6],["Bowling Alley",4],["His Parent's House",4],["The Movies",2],["Car Show",2]],
+	"Name something that might be full of holes":[["Swiss Cheese",40],["Clothes/Socks",16],["Alibi/Story",14],["Net/Fishing Net",9],["Colander/Strainer",8],["Golf Course",2],["Screen",2],["Road/Street",2]],
+	"Name something that might make you suspect your house is haunted":[["Noises/Voices",50],["Moving Objects",18],["Flickering Lights",12],["Doors Open/Close",7],["Ghosts",6],["Weird Odors",2]],
+	"Name something that grows faster than you want it to":[["Hair/Unibrow",48],["Lawn/Weeds",14],["Kids/Babies",13],["Belly/Weight",13],["Nails",6],["Debt/Expenses",4]]
 }
