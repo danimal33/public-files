@@ -1,0 +1,13 @@
+{
+    "Name something kids love about summer":[["Pool/Swimming",25],["No School",23],["Warm Weather",17],["Ice Cream",17],["Playing Outside",11],["Fishing",7]],
+    "Name a place where you have to be quiet":[["Library",38],["Classroom",23],["Church",18],["Movie Theater",14],["Bedtime/At Home",7]],
+    "Name something an astronaut might see in space":[["Earth",23],["Planets",21],["Stars",13],["Moon",13],["Sun",11],["Alien",7],["Satellite",7],["Meteors/Comets",5]],
+    "Name something a kid might do right before going to bed":[["Brush Teeth",23],["Put on Pajamas",19],["Watch TV",15],["Read/Do Homework",15],["Take a Shower",11],["Drink Water",10],["Say Prayers",7]],
+    "Name something you might see at the beach":[["Ocean/Water",28],["Sand",26],["People",18],["Shells",15],["Crabs",7],["Towels",6]],
+    "Name something people put on pizza":[["Cheese",25],["Pepperoni",23],["Sausage",19],["Peppers",15],["Mushrooms",11],["Sauce",7]],
+    "Name an animal you might see on a farm":[["Cow",25],["Pig",23],["Goat",17],["Chicken",16],["Horse",13],["Sheep",6]],
+    "Name a flavor you'd find in any ice cream shop":[["Vanilla",26],["Chocolate",23],["Strawberry",17],["Chocolate Chip",17],["Cherry",10],["Rocky Road",7]],
+    "Name something that has to do with pirates":[["Ship",23],["Parrot",20],["Eye Patch",19],["Skull & Bones",13],["Buried Treasure",11],["Walking the Plank",9],["Peg Leg",5]],
+    "Name something that has to do with princesses":[["Tiara/Crown",26],["Prince",23],["Gown/Dress",17],["Castle",15],["Knight",12],["Frog",7]],
+    "Name an animal that would make a horrible pet:[["Lion",25],["Tiger",23],["Snake",17],["Bear",15],["Skunk",13],["Alligator",7]]
+}
