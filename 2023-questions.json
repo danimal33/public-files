@@ -1,8 +1,10 @@
 {
-	"Name an occasion where parents force kids to wear a certain outfit":[["Wedding",26],["Easter",23],["Halloween",20],["Church",15],["Christmas",4],["Picture Day",4]],
-	"Name a quality of a bad boss":[["Micromanager",29],["Incompetent",24],["Angry",20],["Irresponsible",14],["Oblivious",13]],
-	"Other than feet, name something that runs":[["Water/Toilet",37],["Engine/Car",24],["Refrigerator",10],["Nose",8],["Pantyhose",8],["Clock",3]],
-	"Name something you would ask the Wizard for in the Land of Oz":[["Money",37],["Health/A New Heart",17],["A Brain",7],["Hot Bod",5],["Peace on Earth",4],["Love",4],["Happiness",4],["Magic Power/To Fly",4]],
-	"If there was a Husband store, most people would try to buy one with what?":[["Job",24],["Personality/Humor",15],["Warranty/Guarantee",14],["Heart/Character",12],["Bank Account",10],["Good Bod/Butt",9],["Head of Hair",3],["Brain",2]],
-	"Name something you'd find at a breakfast buffet":[["Eggs",25],["Bacon",24],["Sausage",19],["Potatoes/Hash Browns",12],["Juice",7],["Coffee",6],["Melon",2],["Cereal",2]]
+	"Name something you would do if the person next to you on a plane had bad B.O.":[["Change Seats",39],["Cover Nose/Wear Mask",24],["Turn Head",6],["Endure/Enjoy It",6],["Spray Perfume",6],["Say Something",3],["Sleep",3],["Hide in Bathroom",3]],
+	"In horror movies, name a place teenagers would go where there is always a killer on the loose":[["Cabin/Camp/Woods",49],["Graveyard",12],["Movie Theater/Drive In",6],["Basement/Cellar",6],["Closet",5],["Bathroom/Shower",4],["Bedroom/Bed",4],["A Party",4]],
+	"Name something snowmen might have nightmares about":[["Sun/Beach Weather",62],["Fire/Flame Thrower",14],["Blow Dryers",3],["Rain",3],["Snowplow/Shovel",3],["Drought",2],["Snowballs",2],["Peeing Dogs/Pee",2]],
+	"When you call in sick to work or school, name something you do to make it believable":[["Cough",68],["Hoarse/Weak Voice",18],["Fake Puke",3],["Moan/Groan",3],["Fake Doctor's/Parent Note",2],["Sneeze/Sniffle",2]],
+	"Name something you see outside that would make you want to stay inside":[["Bad Weather/Tornado",71],["Bear/Animal",13],["Zombies",3],["Apocalypse",2],["Fire/Smoke",2],["Bad Celebrities",2]],
+	"Name something specific about Mickey Mouse that other mice make fun of":[["Gigantic Ears",36],["Clothes/Gloves",29],["Voice/Laugh",19],["His Huge Feet",3],["BFFs with a Duck",3],["Honker/Big Nose",3]],
+	"Tell me a nickname someone gives their significant other that starts with the word 'sugar'":[["Sugar Pie",27],["Sugar Bear",27],["Sugar Baby/Babe",12],["Sugar Daddy",8],["Sugarplum",8],["Sugar Lips",5]],
+	"Name a place where if a husband took his wife on an anniversary, she would be mad":[["Tacky Restaurant",43],["Strip Joint",19],["Sporting Event",12],["Bar/Club",6],["Bowling Alley",4],["His Parent's House",4],["The Movies",2],["Car Show",2]]
 }
